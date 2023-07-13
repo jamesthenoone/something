@@ -1,0 +1,458 @@
+[
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DiagnosticsSummaryPage"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=HomePage1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=UserPreferencesPageGeneral"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=SharedPreferencesPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=UserPreferencesPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ExtensionPreferencesPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=WLSTPreferencesTabsBook&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=WLSTControlPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=WLSTPreferencesPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ChangeManagementPage"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletadvanced=false#advanced"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortlethandle=com.bea.console.handles.JMXHandle%2528%2522com.bea%253AName%253Dbase_domain%252CType%253DDomain%2522%2529&EditSessionTablePortletadvanced=true"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=editSessionName&EditSessionTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=editSessionName&EditSessionTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=containsUnactivatedChanges"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=editSessionName"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=mergeNeeded"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=mergeNeeded&EditSessionTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=mergeNeeded&EditSessionTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=currentEditor"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=currentEditor&EditSessionTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=currentEditor&EditSessionTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=creator"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=creator&EditSessionTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=creator&EditSessionTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=description"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=description&EditSessionTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletsortby=description&EditSessionTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_windowLabel=QuickLinks&_state=minimized"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletadvanced=false#advanced"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortlethandle=com.bea.console.handles.JMXHandle%2528%2522com.bea%253AName%253Dbase_domain%252CType%253DDomain%2522%2529&ChangeListPortletadvanced=true"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=name&ChangeListPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=name&ChangeListPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=type"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=name"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=description"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=description&ChangeListPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=description&ChangeListPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=restartRequired"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=restartRequired&ChangeListPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletsortby=restartRequired&ChangeListPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_windowLabel=QuickLinks&_state=normal"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=name&RestartChecklistPortlet[servers]sortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=name&RestartChecklistPortlet[servers]sortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=type"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=name"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=targets"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=targets&RestartChecklistPortlet[servers]sortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=RestartChecklistPageGeneral&RestartChecklistPortlet[servers]sortby=targets&RestartChecklistPortlet[servers]sortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_windowLabel=SystemStatus&_state=minimized"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_windowLabel=SystemStatus&_state=normal"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletcolumn=Health&DomainMonitorHealthPortletvalue=Failed&DomainMonitorHealthPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainconfigTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainmonitorTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainControlPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainSecurityconfigTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainWebServiceSecurityPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainPatchingBook&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainNotesPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletcolumn=Health&DomainMonitorHealthPortletvalue=Critical&DomainMonitorHealthPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorServersPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorClustersPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorMigrationPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletadvanced=false#advanced"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortlethandle=com.bea.console.handles.JMXHandle%2528%2522com.bea%253AName%253Dbase_domain%252CType%253DDomain%2522%2529&DomainBatchJobsTablePortletadvanced=true"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=jobName&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=jobName&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=applicationName"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=jobName"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=instanceID"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=instanceID&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=instanceID&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=executionID"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=executionID&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=executionID&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=batchStatus"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=batchStatus&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=batchStatus&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=startTime"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=startTime&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=startTime&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=endTime"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=endTime&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=endTime&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=exitStatus"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=exitStatus&DomainBatchJobsTablePortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletsortby=exitStatus&DomainBatchJobsTablePortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletcolumn=Health&DomainMonitorHealthPortletvalue=Overloaded&DomainMonitorHealthPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=name&DomainMonitorHealthPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=name&DomainMonitorHealthPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=state"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=name"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=health"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=health&DomainMonitorHealthPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=health&DomainMonitorHealthPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=reason"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=reason&DomainMonitorHealthPortletsortdir=1"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletsortby=reason&DomainMonitorHealthPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_pageLabel=DomainMonitorHealthPage&_nfpb=true&DomainMonitorHealthPortletexpandNode=ROOTCHILDNODE1&DomainMonitorHealthPortletsortby=reason&DomainMonitorHealthPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_pageLabel=DomainMonitorHealthPage&_nfpb=true&DomainMonitorHealthPortletcollapseNode=ROOTCHILDNODE1&DomainMonitorHealthPortletsortby=reason&DomainMonitorHealthPortletsortdir=2"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&DispatcherPortletperspective=configuration-page&DispatcherPortlethandle=com.bea.console.handles.JMXHandle%2528%2522com.bea%253AName%253DAdminServer%252CType%253DServer%2522%2529&_pageLabel=DispatcherPage"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerProtocolsTabprotocolsTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerConfigTabconfigTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerLoggingTabloggingTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerDebugTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29"
+    },
+    {
+        "Method": "GET",
+        "URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerMonitoringTabmonitoringTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29"
+    }
+]

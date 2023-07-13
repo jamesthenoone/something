@@ -1,0 +1,103 @@
+"URL": "http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=MBeanSearchPage"
+Body: MBeanSearchPortletsearchString=&_nfpb=true&MBeanSearchPortlet_actionOverride=%2Fmbeansearch%2FDisplayResultsAction&_windowLabel=MBeanSearchPortlet
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=UserPreferencesPageGeneral
+Body: GlobalPreferencesPortletpreferences.showInlineHelp=true&GlobalPreferencesPortletpreferences.fileBrowserStart=%5C&GlobalPreferencesPortletpreferences.rememberLastPath=true&GlobalPreferencesPortletpreferences.rememberedPathCount=4&GlobalPreferencesPortletpreferences.showAdvanced=false&GlobalPreferencesPortletpreferences.refreshinterval=10&GlobalPreferencesPortletpreferences.confirmationExplicit=true&GlobalPreferencesPortletpreferences.warnUserHoldsLock=false&GlobalPreferencesPortletpreferences.activationTimeout=300&GlobalPreferencesPortletpreferences.warnUserTakingLock=false&GlobalPreferencesPortletpreferences.optionalFeatures=&_nfpb=true&_windowLabel=GlobalPreferencesPortlet&GlobalPreferencesPortlet_actionOverride=%2FUserPreferencesUpdatedAction&GlobalPreferencesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=SharedPreferencesPageGeneral&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: SharedPreferencesPortletpreferences.serverInvokeTimeout=300&SharedPreferencesPortletpreferences.followChanges=false&_nfpb=true&SharedPreferencesPortlet_actionOverride=%2FSharedPreferencesUpdatedAction&_windowLabel=SharedPreferencesPortlet&SharedPreferencesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ExtensionPreferencesPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: ExtensionPreferencesPortletpreferences.displayDefinitionLabels=false&_nfpb=true&ExtensionPreferencesPortlet_actionOverride=%2FExtensionPreferencesUpdatedAction&_windowLabel=ExtensionPreferencesPortlet&ExtensionPreferencesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=EditSessionTable&EditSessionTablePortletadvanced=false
+Body: EditSessionTablePortletadvancedform=true&EditSessionTablePortlettablePreferences.filterByCriteria=&EditSessionTablePortletcustomizedFormAdd=&EditSessionTablePortletcustomizedFormAddAll=&EditSessionTablePortletcustomizedFormRemove=&EditSessionTablePortletcustomizedFormRemoveAll=&EditSessionTablePortletcustomizedFormTop=&EditSessionTablePortletcustomizedFormUp=&EditSessionTablePortletcustomizedFormDown=&EditSessionTablePortletcustomizedFormBottom=&EditSessionTablePortlettablePreferences.selectedColumns=&EditSessionTablePortlettablePreferences.clearprefs=false&EditSessionTablePortlettablePreferences.tableName=&EditSessionTablePortlet_actionOverride=%2FTablePreferencesUpdatedAction&_nfpb=true&_windowLabel=EditSessionTablePortlet&EditSessionTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=CheckListPageGeneral&ChangeListPortletadvanced=false
+Body: ChangeListPortletadvancedform=true&ChangeListPortlettablePreferences.filterByCriteria=&ChangeListPortletcustomizedFormAdd=&ChangeListPortletcustomizedFormAddAll=&ChangeListPortletcustomizedFormRemove=&ChangeListPortletcustomizedFormRemoveAll=&ChangeListPortletcustomizedFormTop=&ChangeListPortletcustomizedFormUp=&ChangeListPortletcustomizedFormDown=&ChangeListPortletcustomizedFormBottom=&ChangeListPortlettablePreferences.selectedColumns=&ChangeListPortlettablePreferences.clearprefs=false&ChangeListPortlettablePreferences.tableName=&_nfpb=true&ChangeListPortlet_actionOverride=%2FTablePreferencesUpdatedAction&_windowLabel=ChangeListPortlet&ChangeListPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainMonitorHealthPage&DomainMonitorHealthPortletcolumn=Health&DomainMonitorHealthPortletvalue=Failed&DomainMonitorHealthPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: Tab_filter=Filter&_nfpb=true&DomainMonitorHealthPortlet_actionOverride=%2Fcore%2FDomainMonitorHealth&_windowLabel=DomainMonitorHealthPortlet&DomainMonitorHealthPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainconfigTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: DomainConfigGeneralPortletdomainConfigGeneral.administrationPortEnabled=false&DomainConfigGeneralPortletdomainConfigGeneral.administrationPort=9002&DomainConfigGeneralPortletdomainConfigGeneral.productionModeEnabled=true&DomainConfigGeneralPortletdomainConfigGeneral.exalogicOptimizationsEnabled=true&DomainConfigGeneralPortletdomainConfigGeneral.clusterConstraintsEnabled=true&DomainConfigGeneralPortletdomainConfigGeneral.internalAppsDeployOnDemandEnabled=true&DomainConfigGeneralPortletadvancedform=false&_nfpb=true&DomainConfigGeneralPortlet_actionOverride=%2Fcore%2FDomainConfigGeneralUpdated&_windowLabel=DomainConfigGeneralPortlet&DomainConfigGeneralPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainSecurityconfigTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: SecurityDomainDomainConfigGeneralPortletdomainConfigGeneral.administrativeIdentityDomain=&SecurityDomainDomainConfigGeneralPortletdomainConfigGeneral.identityDomainAwareProvidersRequired=false&SecurityDomainDomainConfigGeneralPortletdomainConfigGeneral.anonymousAdminLookupEnabled=false&SecurityDomainDomainConfigGeneralPortletdomainConfigGeneral.crossDomainSecurityEnabled=false&SecurityDomainDomainConfigGeneralPortletadvancedform=false&_nfpb=true&SecurityDomainDomainConfigGeneralPortlet_actionOverride=%2Fsecurity%2FSecurityDomainDomainConfigGeneralUpdated&_windowLabel=SecurityDomainDomainConfigGeneralPortlet&SecurityDomainDomainConfigGeneralPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainNotesPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Dbase_domain%2CType%3DDomain%22%29
+Body: _nfpb=true&DomainNotesPortlet_actionOverride=%2Fcore%2FCoreNotesUpdated&_windowLabel=DomainNotesPortlet&DomainNotesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=DomainBatchJobsPage&DomainBatchJobsTablePortletadvanced=false
+Body: DomainBatchJobsTablePortletadvancedform=true&DomainBatchJobsTablePortlettablePreferences.filterByCriteria=&DomainBatchJobsTablePortletcustomizedFormAdd=&DomainBatchJobsTablePortletcustomizedFormAddAll=&DomainBatchJobsTablePortletcustomizedFormRemove=&DomainBatchJobsTablePortletcustomizedFormRemoveAll=&DomainBatchJobsTablePortletcustomizedFormTop=&DomainBatchJobsTablePortletcustomizedFormUp=&DomainBatchJobsTablePortletcustomizedFormDown=&DomainBatchJobsTablePortletcustomizedFormBottom=&DomainBatchJobsTablePortlettablePreferences.selectedColumns=&DomainBatchJobsTablePortlettablePreferences.clearprefs=false&DomainBatchJobsTablePortlettablePreferences.tableName=&_nfpb=true&DomainBatchJobsTablePortlet_actionOverride=%2Fcore%2FTablePreferencesUpdatedAction&_windowLabel=DomainBatchJobsTablePortlet&DomainBatchJobsTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerConfigGeneralTabPage&CoreServerServerConfigGeneralPortlethandle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29
+Body: Change=Change&CoreServerServerConfigGeneralPortletserverConfigGeneral.listenAddress=&CoreServerServerConfigGeneralPortletserverConfigGeneral.listenPortEnabled=true&CoreServerServerConfigGeneralPortletserverConfigGeneral.listenPort=7001&CoreServerServerConfigGeneralPortletserverConfigGeneral.sslEnabled=false&CoreServerServerConfigGeneralPortletserverConfigGeneral.sslListenPort=7002&CoreServerServerConfigGeneralPortletserverConfigGeneral.clientCertProxyEnabled=false&CoreServerServerConfigGeneralPortletserverConfigGeneral.javaCompiler=javac&CoreServerServerConfigGeneralPortletserverConfigGeneral.defaultDatasource=&CoreServerServerConfigGeneralPortletadvancedform=false&CoreServerServerConfigGeneralPortlet_actionOverride=%2Fcore%2FCoreServerServerConfigGeneralUpdated&_nfpb=true&_windowLabel=CoreServerServerConfigGeneralPortlet&CoreServerServerConfigGeneralPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerProtocolsTabprotocolsTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29
+Body: CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.completeMessageTimeout=60&CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.idleConnectionTimeout=65&CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.tunnelingEnabled=false&CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.tunnelingClientPingSecs=45&CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.tunnelingClientTimeoutSecs=40&CoreServerServerProtocolsGeneralPortletserverProtocolsGeneral.maxMessageSize=10000000&_nfpb=true&CoreServerServerProtocolsGeneralPortlet_actionOverride=%2Fcore%2FCoreServerServerProtocolsGeneralUpdated&_windowLabel=CoreServerServerProtocolsGeneralPortlet&CoreServerServerProtocolsGeneralPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerLoggingTabloggingTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29
+Body: CoreServerServerLoggingGeneralPortletserverLoggingGeneral.fileName=logs%2FAdminServer.log&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.fileMinSize=5000&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.rotationTime=00%3A00&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.fileTimeSpan=24&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.numberOfFilesLimited=true&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.fileCount=100&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.logFileRotationDir=&CoreServerServerLoggingGeneralPortletserverLoggingGeneral.rotateLogOnStartup=false&CoreServerServerLoggingGeneralPortletadvancedform=false&CoreServerServerLoggingGeneralPortlet_actionOverride=%2Fcore%2FCoreServerServerLoggingGeneralUpdated&_nfpb=true&_windowLabel=CoreServerServerLoggingGeneralPortlet&CoreServerServerLoggingGeneralPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+
+URL: http://127.0.0.1:7001/console/console.portal?_nfpb=true&_pageLabel=ServerDebugTabPage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3DAdminServer%2CType%3DServer%22%29
+Body: ServerDebugPortletadvancedform=false&_nfpb=true&_windowLabel=ServerDebugPortlet&ServerDebugPortlet_actionOverride=%2Fcore%2FServerDebugUpdated&ServerDebugPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: ChangeManagerPortlet_actionOverride=&changeCenter=ChangeCenterClicked&_nfpb=true&_pageLabel=HomeReserved&ChangeManagerPortletreturnTo=&ChangeManagerPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: action=&nodeId=&_nfpb=true
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainMonitorServersPage&_nfpb=true&DomainMonitorServersPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainMonitorClustersPage&_nfpb=true&DomainMonitorClustersPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainMonitorMigrationPage&_nfpb=true&DomainMonitorMigrationPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainBatchJobsPage&_nfpb=true&DomainBatchJobsTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&_pageLabel=DomainWebServiceSecurityPage&_nfpb=true&WebServiceSecurityTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainPatchTablePage&_nfpb=true&DomainPatchTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&DomainControlServersPortletchosenContents=com.bea.console.handles.JMXHandle%2528%2522com.bea%253AName%253DServer-0%252CType%253DServer%2522%2529&_pageLabel=DomainControlServersPage&_nfpb=true&DomainControlServersPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&ExtensionPreferencesPortletchosenContents=com.bea.console.handles.ExtensionHandle%2528%2522console.sipserver-console-ext%253BConsoleExtension%2522%2529&_pageLabel=ExtensionPreferencesPage&_nfpb=true&ExtensionPreferencesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: WLSTPreferencesPortletbaseScriptDirectory=E%3A%5COracle%5CMiddleware%5COracle_Home%5Cuser_projects%5Cdomains%5Cbase_domain&WLSTPreferencesPortletfileName=Script1689037676209.py&WLSTPreferencesPortletappendToFile=false&WLSTPreferencesPortletrequireLockToStartRecording=true&WLSTPreferencesPortletrecordWhenLockAndActivate=false&WLSTPreferencesPortletpromptBeforeAdhoc=false&WLSTPreferencesPortletpreScript=false&WLSTPreferencesPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: WLSTPreferencesControlPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&EditSessionTablePortletchosenContents=null&_pageLabel=EditSessionTable&_nfpb=true&EditSessionTablePortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&_pageLabel=RestartChecklistPageGeneral&_nfpb=true&RestartChecklistPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=CheckListPageGeneral&_nfpb=true&ChangeListPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: _pageLabel=DomainMonitorHealthPage&_nfpb=true&DomainMonitorHealthPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
+URL: http://127.0.0.1:7001/console/console.portal
+Body: all=&ServerDebugPortletchosenContents=com.bea.console.handles.NameHandle%2528%2522scope%253Aweblogic%2522%2529&_pageLabel=ServerDebugPage&_nfpb=true&ServerDebugPortletfrsc=0xed5f19555386e73fd70e6369b352d82505977d700da36015
+----------------------
