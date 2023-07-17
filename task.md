@@ -8,9 +8,86 @@
 
 - #### 创建服务器，执行命令等api进行分析，查看是否对命令进行过滤，是否存在可能的命令执行
 
+
+
 - #### weblogic 数据库是否存在sql注入等漏洞，查看它的内置数据库
 
 - #### 自己写爬虫爬取weblogic console的页面，从html中得到所有页面以及相应参数（即参数对应的当前页面），然后获取当前页面的提交参数，如post的参数或者get参数
+
+
+
+- #### post类型请求去重并分析
+
+- #### rest api行为分析，分类
+
+- #### t3反序列化接口分析
+
+  
+
+- #### 添加一个用户，用户存储在文件中，把用户密码解密出来
+
+- #### rest api如何验证用户组角色权限（filelocator 软件用于搜索文本内内容）
+
+- #### rest API分析 比如服务器模板改的是哪个地方 、system component是哪些、filestore是什么存储
+
+```json
+        "method": "post",
+        "url": "/management/weblogic/{version}/edit/serverTemplates",
+        "parameters": [
+            {
+                "schema": {
+                    "$ref": "#/definitions/Server Template"
+                },
+                "name": "payload",
+                "required": true,
+                "in": "body",
+                "description": "<p>Must contain a populated server template model.</p>"
+            },
+            {
+                "$ref": "#/parameters/Request Header X-Requested-By"
+            }
+        ]
+
+    {
+        "method": "post",
+        "url": "/management/weblogic/{version}/edit/systemComponents",
+        "parameters": [
+            {
+                "schema": {
+                    "$ref": "#/definitions/System Component"
+                },
+                "name": "payload",
+                "required": true,
+                "in": "body",
+                "description": "<p>Must contain a populated system component model.</p>"
+            },
+            {
+                "$ref": "#/parameters/Request Header X-Requested-By"
+            }
+        ]
+    },
+
+    {
+        "method": "post",
+        "url": "/management/weblogic/{version}/edit/fileStores",
+        "parameters": [
+            {
+                "schema": {
+                    "$ref": "#/definitions/File Store"
+                },
+                "name": "payload",
+                "required": true,
+                "in": "body",
+                "description": "<p>Must contain a populated file store model.</p>"
+            },
+            {
+                "$ref": "#/parameters/Request Header X-Requested-By"
+            }
+        ]
+    },
+```
+
+
 
 ### 3.使用工具对这些所有接口进行扫描
 
